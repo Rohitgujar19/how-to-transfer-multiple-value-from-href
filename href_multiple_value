@@ -1,0 +1,4 @@
+<div>
+					<a href="update_variants.php?k=<?php echo$key?>&amp;k1=<?php echo $key1?>">update</a>	
+
+				</div>
